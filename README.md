@@ -1,3 +1,8 @@
+홍콩과기대 김성훈 님의 딥러닝 관련 Github fork
+
+https://hunkim.github.io/ml/
+
+
 # Lab code (WIP), but call for comments
 
 [![Build Status](https://travis-ci.org/hunkim/DeepLearningZeroToAll.svg?branch=master)](https://travis-ci.org/hunkim/DeepLearningZeroToAll)
